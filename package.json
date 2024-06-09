@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "react-scroll": "^1.9.0",
+    "user-context": "^1.0.14"
+  }
+}
